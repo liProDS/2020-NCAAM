@@ -1,0 +1,4 @@
+,col_names,col_dtypes,col_na_count,col_unique,count,mean,std,min,25%,50%,75%,max
+Season,Season,int64,0,35,1642.0,2005.5590742996346,10.09850236550764,1985.0,1997.0,2008.0,2014.0,2019.0
+SecondaryTourney,SecondaryTourney,object,0,4,,,,,,,,
+TeamID,TeamID,int64,0,331,1642.0,1289.1236297198539,104.04508439877574,1101.0,1201.0,1292.0,1379.0,1465.0

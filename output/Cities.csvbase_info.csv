@@ -1,0 +1,4 @@
+,col_names,col_dtypes,col_na_count,col_unique,count,mean,std,min,25%,50%,75%,max
+CityID,CityID,int64,0,435,435.0,4220.845977011494,130.0594217301572,4001.0,4109.5,4218.0,4327.5,4457.0
+City,City,object,0,411,,,,,,,,
+State,State,object,0,63,,,,,,,,

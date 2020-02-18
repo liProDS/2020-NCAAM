@@ -1,0 +1,7 @@
+,col_names,col_dtypes,col_na_count,col_unique,count,mean,std,min,25%,50%,75%,max
+Season,Season,int64,0,36,36.0,2002.5,10.535653752852738,1985.0,1993.75,2002.5,2011.25,2020.0
+DayZero,DayZero,object,0,36,,,,,,,,
+RegionW,RegionW,object,0,4,,,,,,,,
+RegionX,RegionX,object,0,8,,,,,,,,
+RegionY,RegionY,object,0,7,,,,,,,,
+RegionZ,RegionZ,object,0,8,,,,,,,,

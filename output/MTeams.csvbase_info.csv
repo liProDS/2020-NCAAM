@@ -1,0 +1,5 @@
+,col_names,col_dtypes,col_na_count,col_unique,count,mean,std,min,25%,50%,75%,max
+TeamID,TeamID,int64,0,367,367.0,1284.0,106.088013774727,1101.0,1192.5,1284.0,1375.5,1467.0
+TeamName,TeamName,object,0,367,,,,,,,,
+FirstD1Season,FirstD1Season,int64,0,27,367.0,1988.4468664850135,7.6327440110266105,1985.0,1985.0,1985.0,1985.0,2020.0
+LastD1Season,LastD1Season,int64,0,13,367.0,2019.1171662125341,4.900641714660184,1985.0,2020.0,2020.0,2020.0,2020.0
