@@ -3,64 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="59a3adec-edb6-4c73-9a8e-63c58c3312bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/Cities.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/Cities.csvbase_info.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/Conferences.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/Conferences.csvbase_info.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MConferenceTourneyGames.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MConferenceTourneyGames.csvbase_info.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MGameCities.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MGameCities.csvbase_info.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MMasseyOrdinals.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MMasseyOrdinals.csvbase_info.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MNCAATourneyCompactResults.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MNCAATourneyCompactResults.csvbase_info.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MNCAATourneyDetailedResults.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MNCAATourneyDetailedResults.csvbase_info.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MNCAATourneySeedRoundSlots.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MNCAATourneySeedRoundSlots.csvbase_info.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MNCAATourneySeeds.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MNCAATourneySeeds.csvbase_info.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MNCAATourneySlots.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MNCAATourneySlots.csvbase_info.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MRegularSeasonCompactResults.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MRegularSeasonCompactResults.csvbase_info.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MRegularSeasonDetailedResults.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MRegularSeasonDetailedResults.csvbase_info.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MSeasons.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MSeasons.csvbase_info.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MSecondaryTourneyCompactResults.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MSecondaryTourneyCompactResults.csvbase_info.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MSecondaryTourneyTeams.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MSecondaryTourneyTeams.csvbase_info.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MTeamCoaches.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MTeamCoaches.csvbase_info.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MTeamConferences.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MTeamConferences.csvbase_info.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MTeamSpellings.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MTeamSpellings.csvbase_info.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MTeams.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/MTeams.csvbase_info.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/read_raw_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/read_raw_data.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/Cities.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/Conferences.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/MConferenceTourneyGames.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/MGameCities.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/MMasseyOrdinals.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/MNCAATourneyCompactResults.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/MNCAATourneyDetailedResults.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/MNCAATourneySeedRoundSlots.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/MNCAATourneySeeds.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/MNCAATourneySlots.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/MRegularSeasonCompactResults.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/MRegularSeasonDetailedResults.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/MSeasons.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/MSecondaryTourneyCompactResults.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/MSecondaryTourneyTeams.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/MTeamCoaches.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/MTeamConferences.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/MTeamSpellings.csv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/MTeams.csv.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/working_memo.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/working_memo.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582037212235</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="For best! Aye!">
+      <created>1582164761131</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582164761131</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -147,10 +97,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="For best! Aye!" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="918" y="294" key="CommitChangelistDialog2" timestamp="1582037209790">
+    <state x="918" y="294" key="CommitChangelistDialog2" timestamp="1582164755404">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="918" y="294" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1582037209790" />
+    <state x="918" y="294" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1582164755404" />
     <state x="248" y="130" key="DiffContextDialog" timestamp="1581950882465">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
