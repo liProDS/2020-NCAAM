@@ -1,6 +1,0 @@
-,col_names,col_dtypes,col_na_count,col_unique,count,mean,std,min,25%,50%,75%,max
-Seed,Seed,object,0,112,,,,,,,,
-GameRound,GameRound,int64,0,7,720.0,3.2666666666666666,1.8679643148363638,0.0,2.0,3.0,5.0,6.0
-GameSlot,GameSlot,object,0,87,,,,,,,,
-EarlyDayNum,EarlyDayNum,int64,0,7,720.0,143.95555555555555,6.93608589845812,134.0,138.0,143.0,152.0,154.0
-LateDayNum,LateDayNum,int64,0,7,720.0,144.64444444444445,6.533637982167943,135.0,139.0,144.0,152.0,154.0

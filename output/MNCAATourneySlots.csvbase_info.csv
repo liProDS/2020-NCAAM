@@ -1,5 +1,0 @@
-,col_names,col_dtypes,col_na_count,col_unique,count,mean,std,min,25%,50%,75%,max
-Season,Season,int64,0,35,2251.0,2002.2234562416704,10.139616506235589,1985.0,1993.0,2002.0,2011.0,2019.0
-Slot,Slot,object,0,76,,,,,,,,
-StrongSeed,StrongSeed,object,0,76,,,,,,,,
-WeakSeed,WeakSeed,object,0,76,,,,,,,,

@@ -1,3 +1,0 @@
-,col_names,col_dtypes,col_na_count,col_unique,count,mean,std,min,25%,50%,75%,max
-TeamNameSpelling,TeamNameSpelling,object,0,1143,,,,,,,,
-TeamID,TeamID,int64,0,367,1143.0,1289.6981627296589,104.89564853074002,1101.0,1198.0,1292.0,1383.0,1467.0
