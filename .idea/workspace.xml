@@ -113,10 +113,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="For best! Aye!" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="918" y="294" key="CommitChangelistDialog2" timestamp="1582442032942">
+    <state x="918" y="294" key="CommitChangelistDialog2" timestamp="1583122915021">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="918" y="294" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1582442032942" />
+    <state x="918" y="294" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1583122915021" />
     <state x="248" y="130" key="DiffContextDialog" timestamp="1581950882465">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -125,14 +125,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="441" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1581950538291" />
+    <state x="248" y="128" key="MergeDialog" timestamp="1583122966978">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="248" y="128" key="MergeDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583122966978" />
+    <state x="989" y="416" key="MultipleFileMergeDialog" timestamp="1583122966984">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="989" y="416" key="MultipleFileMergeDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583122966984" />
     <state x="781" y="342" key="SettingsEditor" timestamp="1581950681949">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="342" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1581950681949" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1582442042613">
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1583122929936">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1582442042613" />
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1583122929936" />
     <state x="1607" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1583122845256">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
