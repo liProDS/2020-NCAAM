@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="59a3adec-edb6-4c73-9a8e-63c58c3312bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/0225DecisionTree_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/report/0225DecisionTree_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/read_raw_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/read_raw_data.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/report/tables_information.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/report/tables_information.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/working_memo.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/working_memo.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +106,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582442034175</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="For best! Aye!">
+      <created>1583122922116</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1583122922116</updated>
+    </task>
+    <task id="LOCAL-00009" summary="For best! Aye!">
+      <created>1583123027684</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1583123027684</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -113,10 +128,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="For best! Aye!" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="918" y="294" key="CommitChangelistDialog2" timestamp="1583122915021">
+    <state x="918" y="294" key="CommitChangelistDialog2" timestamp="1583123026659">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="918" y="294" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1583122915021" />
+    <state x="918" y="294" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1583123026659" />
     <state x="248" y="130" key="DiffContextDialog" timestamp="1581950882465">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -137,14 +152,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="342" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1581950681949" />
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1583122929936">
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2" timestamp="1583123045404">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1583122929936" />
-    <state x="1607" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1583122845256">
+    <state x="872" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1583123045404" />
+    <state x="1607" y="404" key="com.intellij.ide.util.TipDialog" timestamp="1583162401407">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1607" y="404" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583122845256" />
+    <state x="1607" y="404" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583162401407" />
     <state x="978" y="491" key="git4idea.merge.GitPullDialog" timestamp="1582948730243">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
