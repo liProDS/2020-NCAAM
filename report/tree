@@ -1,0 +1,127 @@
+C:.
+│  DataMart_laobai_V0.2.ipynb
+│  read_raw_data.ipynb
+│  WBS.xlsx
+│  working_memo.xlsx
+│
+├─.idea
+│  │  .gitignore
+│  │  2020-NCAAM.iml
+│  │  misc.xml
+│  │  modules.xml
+│  │  vcs.xml
+│  │  workspace.xml
+│  │
+│  └─inspectionProfiles
+│          profiles_settings.xml
+│
+├─.ipynb_checkpoints
+│      DataMart_laobai_V0.2-checkpoint.ipynb
+│      read_raw_data-checkpoint.ipynb
+│
+├─codelib
+│  │  k07.py
+│  │  KMeans_n_clusters.ipynb
+│  │  PCA_v1.4.ipynb
+│  │  r_lib.ipynb
+│  │
+│  └─.ipynb_checkpoints
+│          KMeans_n_clusters-checkpoint.ipynb
+│          r_lib-checkpoint.ipynb
+│
+├─input
+│  └─rawdata
+│      │  MEvents2015.csv
+│      │  MEvents2016.csv
+│      │  MEvents2017.csv
+│      │  MEvents2018.csv
+│      │  MEvents2019.csv
+│      │  MPlayers.csv
+│      │  MSampleSubmissionStage1_2020.csv
+│      │
+│      └─MDataFiles_Stage1
+│              Cities.csv
+│              Conferences.csv
+│              MConferenceTourneyGames.csv
+│              MGameCities.csv
+│              MMasseyOrdinals.csv
+│              MNCAATourneyCompactResults.csv
+│              MNCAATourneyDetailedResults.csv
+│              MNCAATourneySeedRoundSlots.csv
+│              MNCAATourneySeeds.csv
+│              MNCAATourneySlots.csv
+│              MRegularSeasonCompactResults.csv
+│              MRegularSeasonDetailedResults.csv
+│              MSeasons.csv
+│              MSecondaryTourneyCompactResults.csv
+│              MSecondaryTourneyTeams.csv
+│              MTeamCoaches.csv
+│              MTeamConferences.csv
+│              MTeams.csv
+│              MTeamSpellings.csv
+│
+├─output
+│      Citiesbase_info.csv
+│      Conferencesbase_info.csv
+│      MConferenceTourneyGamesbase_info.csv
+│      MEvents2015base_info.csv
+│      MEvents2016base_info.csv
+│      MEvents2017base_info.csv
+│      MEvents2018base_info.csv
+│      MEvents2019base_info.csv
+│      MGameCitiesbase_info.csv
+│      MMasseyOrdinalsbase_info.csv
+│      MNCAATourneyCompactResultsbase_info.csv
+│      MNCAATourneyDetailedResultsbase_info.csv
+│      MNCAATourneySeedRoundSlotsbase_info.csv
+│      MNCAATourneySeedsbase_info.csv
+│      MNCAATourneySlotsbase_info.csv
+│      MPlayersbase_info.csv
+│      MRegularSeasonCompactResultsbase_info.csv
+│      MRegularSeasonDetailedResultsbase_info.csv
+│      MSampleSubmissionStage1_2020base_info.csv
+│      MSeasonsbase_info.csv
+│      MSecondaryTourneyCompactResultsbase_info.csv
+│      MSecondaryTourneyTeamsbase_info.csv
+│      MTeamCoachesbase_info.csv
+│      MTeamConferencesbase_info.csv
+│      MTeamsbase_info.csv
+│      MTeamSpellingsbase_info.csv
+│
+└─report
+    │  0225DecisionTree_2.ipynb
+    │  ShareInformation
+    │  tables_information.xlsx
+    │  things_memo.pptx
+    │  模型方针.xlsx
+    │
+    ├─.ipynb_checkpoints
+    │      0225DecisionTree_2-checkpoint.ipynb
+    │
+    └─profiling_report
+            Cities.html
+            Conferences.html
+            MConferenceTourneyGames.html
+            MEvents2015.html
+            MEvents2016.html
+            MEvents2017.html
+            MEvents2018.html
+            MEvents2019.html
+            MGameCities.html
+            MMasseyOrdinals.html
+            MNCAATourneyCompactResults.html
+            MNCAATourneyDetailedResults.html
+            MNCAATourneySeedRoundSlots.html
+            MNCAATourneySeeds.html
+            MNCAATourneySlots.html
+            MPlayers.html
+            MRegularSeasonCompactResults.html
+            MRegularSeasonDetailedResults.html
+            MSampleSubmissionStage1_2020.html
+            MSeasons.html
+            MSecondaryTourneyCompactResults.html
+            MSecondaryTourneyTeams.html
+            MTeamCoaches.html
+            MTeamConferences.html
+            MTeams.html
+            MTeamSpellings.html
